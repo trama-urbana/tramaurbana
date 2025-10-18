@@ -48,7 +48,7 @@ header {
   padding: 0.5rem 2rem;
   position: relative;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  align-items: baseline;
+  align-items: center;
 }
 
 .logo-container {
@@ -101,7 +101,7 @@ nav {
   gap: 1rem;
   align-items: center;
   margin-left: auto;
-  margin-top: 0.5rem;
+
 }
 
 .menu a {
