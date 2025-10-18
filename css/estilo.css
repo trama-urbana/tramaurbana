@@ -49,15 +49,10 @@ strong {
 header {
   background-color: #0c6b77;
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  padding: 1rem 2rem;
-  gap: 2rem;
-  flex-wrap: wrap;
-  padding: 0.5rem 2rem;
-  position: relative;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   align-items: center;
+  padding: 1rem 2rem;
+  position: relative;
 }
 
 .logo-container {
@@ -65,14 +60,10 @@ header {
   padding: 0.5rem 1rem;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-  display: flex;
-  align-items: flex-end;
 }
 
 .logo-container img {
   height: 50px;
-  width: auto;
-  max-height: 50px;
 }
 
 .impact-phrase {
@@ -81,17 +72,10 @@ header {
   font-weight: 500;
   margin-left: 1.5rem;
   flex-grow: 1;
-  display: flex;
-  margin-right: 1.5rem;
 }
 
 nav {
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  flex: 1;
-  margin-left: auto;
 }
 
 .menu-toggle {
@@ -114,9 +98,6 @@ nav {
 .menu {
   display: flex;
   gap: 1rem;
-  align-items: center;
-  margin-left: auto;
-
 }
 
 .menu a {
@@ -130,6 +111,7 @@ nav {
   .impact-phrase {
     display: none;
   }
+
   .menu {
     position: absolute;
     top: 100%;
@@ -141,12 +123,24 @@ nav {
     border-radius: 0 0 8px 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   }
+
   .menu.show {
     display: flex;
   }
+
   .menu-toggle {
     display: flex;
   }
+
+  .container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 2.5rem 3rem;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  }
+
 }
 /* ===== Finaliza o style do HEADER ===== */
 
