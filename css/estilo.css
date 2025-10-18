@@ -45,7 +45,7 @@ header {
   justify-content: flex-start;
   gap: 2rem;
   flex-wrap: wrap;
-  padding: 1rem 2rem;
+  padding: 0.5rem 2rem;
   position: relative;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   align-items: baseline;
