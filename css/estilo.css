@@ -57,8 +57,7 @@ header {
 
 .header-content {
   display: flex;
-  gap: 1rem;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
 }
@@ -88,9 +87,9 @@ header {
 }
 
 nav {
-  margin-left: auto;
   display: flex;
   justify-content: flex-end;
+  flex: 1;
 }
 
 .menu-toggle {
@@ -114,6 +113,7 @@ nav {
   display: flex;
   gap: 1rem;
   align-items: center;
+  padding-right: 0.5rem; /* ajustável */
 }
 
 .menu a {
