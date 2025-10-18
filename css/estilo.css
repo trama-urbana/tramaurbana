@@ -146,6 +146,16 @@ main h1 {
   margin-top: 0;
 }
 
+  .container {
+     max-width: 900px;
+     margin: 40px auto;
+     padding: 2.5rem 3rem;
+     background: white;
+     border-radius: 12px;
+     box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+}
+
+
 h1, h2, h3 {
   color: var(--azul-petroleo);
 }
@@ -162,6 +172,55 @@ strong {
   color: #ec6726;
 }
 
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin: 40px auto;
+    max-width: 900px;
+}
+
+ .galeria img {
+    width: 100%;
+    max-width: 280px;
+    border-radius: 6px;
+    width: 100%;
+    max-width: 280px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    object-fit: cover;
+}
+
+
+    .whatsapp-float {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 999;
+    }
+
+    .whatsapp-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background-color: #25D366;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      text-decoration: none;
+    }
+
+    .whatsapp-icon {
+      width: 28px;
+      height: 28px;
+      object-fit: contain;
+    }
 
 /* ===== Finaliza o style do BODY ===== */
 
