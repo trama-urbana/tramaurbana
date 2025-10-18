@@ -82,14 +82,16 @@ header {
   margin-left: 1.5rem;
   flex-grow: 1;
   display: flex;
+  margin-right: 1.5rem;
 }
 
 nav {
   position: relative;
   display: flex;
   align-items: center;
-  flex-grow: 1;
   justify-content: flex-end;
+  flex: 1;
+  margin-left: auto;
 }
 
 .menu-toggle {
