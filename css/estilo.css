@@ -144,6 +144,8 @@ main {
 
 main h1 {
   margin-top: 0;
+  text-align: center
+  color: #ec6726;
 }
 
   .container {
@@ -170,6 +172,10 @@ p:first-of-type {
 
 strong {
   color: #ec6726;
+}
+
+strong.azul {
+  color: #0c6b77;
 }
 
 .galeria {
