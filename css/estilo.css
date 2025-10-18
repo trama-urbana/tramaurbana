@@ -45,14 +45,11 @@ strong {
   color: #ec6726;
 }
 
-/* ===== Começa o style do HEADER ===== */
+/* ================== Começa o style do HEADER ======================= */
 header {
   background-color: var(--azul-petroleo);
   display: flex;
-  flex-wrap: nowrap;
-  align-items: center;
-  padding: 0.3rem 2rem;
-  gap: 1.5rem;
+  justify-content: center;
 }
 
 .header-content {
@@ -60,6 +57,10 @@ header {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+  max-width: 1320px; /* ou qualquer limite que preferir */
+  padding: 0.3rem 2rem;
+  box-sizing: border-box;
+}
 }
 
 .logo-container {
