@@ -158,7 +158,13 @@ main h1 {
 }
 
 
-h1, h2, h3 {
+h1
+ {
+  color: #ec6726;
+  text-align: center;
+}
+
+ h2, h3 {
   color: var(--azul-petroleo);
 }
 
