@@ -161,6 +161,15 @@ p:first-of-type {
 strong {
   color: #ec6726;
 }
+
+.chamada-final {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+}
 /* ===== Finaliza o style do BODY ===== */
 
 
