@@ -150,8 +150,8 @@ main h1 {
 
   .container {
      max-width: 900px;
-     margin: 40px auto;
-     padding: 2.5rem 3rem;
+     margin: 20px auto;
+     padding: 1.5rem 2.5rem;
      background: white;
      border-radius: 12px;
      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
@@ -166,10 +166,14 @@ h1
 
  h2, h3 {
   color: var(--azul-petroleo);
+  margin-bottom: 0px;
+
 }
 
 p {
   margin-bottom: 1rem;
+  margin-top: 5px;
+
 }
 
 p:first-of-type {
