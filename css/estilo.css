@@ -190,6 +190,15 @@ strong.azul {
   color: inherit;
 }
 
+.projeto-card h2 a {
+  color: var(--azul-petroleo);
+  text-decoration: none;
+}
+
+.projeto-card h2 a:hover {
+  text-decoration: underline;
+}
+
 .galeria {
     display: flex;
     flex-wrap: wrap;
