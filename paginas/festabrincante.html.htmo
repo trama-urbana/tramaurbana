@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cartinha da Terra – Trama Urbana</title>
+<link rel="stylesheet" href="../css/estilo.css" />
+<script src="../js/incluir-header-footer.js" defer></script></head>
+<body>
+  <header id="header"></header>
+
+<main class="container">
+    <h1>Festa Brincante</h1>
+    <p>A gente não leva brinquedos prontos nem microfone na mão! Levamos materiais simples, naturais e um monte de ideias vivas. Tinta de beterraba, massinha de farinha e carimbos de folhas… tudo é convite para criar com as próprias mãos, no tempo e jeito de cada pessoa. É festa com elementos naturais, presença e espaço pra imaginação correr solta. Aqui, cada brincadeira nasce do encontro entre o que a gente leva e o que quem está na festa inventa.</p>
+
+
+    <h2>O que oferecemos?</h2>
+    <ol>
+      <li>Cantinho da Natureza Curiosa: uma mini “coleção” sensorial com folhas, sementes, cascas, gravetos e lupas para explorar e inventar histórias.</li>
+      <li>Oficina de criação de tintas: As crianças ajudam a preparar tintas com elementos naturais (como açaí, spirulina e urucum), descobrindo o processo e as cores que a natureza oferece.</li>
+      <li>Estamparia com folhas e carimbos: impressões feitas com folhas frescas, flores e papel, criando desenhos únicos com as próprias mãos.</li>
+      <li>Brincadeiras com cordas, tecidos e elementos soltos: as crianças criam cabanas, caminhos, ninhos ou circuitos com o que está disponível.</li>
+      <li>Confecção de brinquedos simples com materiais naturais, como petecas, bonecos e vulcões.</li>
+      <li>Espaço da massinha criativa: massinha com corantes vegetais e modeladores naturais como galhos, conchas, sementes.</li>
+      <li>Pintura em grupo com grandes folhas de papel craft: um painel coletivo onde todo mundo pode pintar, rabiscar, carimbar e experimentar.</li>
+      <li>Brincadeiras silenciosas e de escuta: como “o que tem no som dessa semente?”, ou “qual folha cheira diferente?”, convidando à pausa e à atenção.</li>
+      <li>Mini exposição do que foi criado: ao final, um espaço para mostrar os desenhos, estandartes, brinquedos e criações feitas na festa.</li>
+      <li>Van Corre: Um pintor atrapalhado anda solto pela festa e tem uma única missão: deixar todo mundo mais colorido! Quem Van Corre alcançar ganha uma pinta feita com tinta natural e entra no time de artistas. A brincadeira continua até ninguém escapar de uma corzinha e a festa virar uma explosão de alegria.</li>
+    </ol>
+
+  
+    <p>A Festa Brincante não é recreação tradicional, com som alto, brinquedo inflável e atividade pronta que coloca todo mundo em fila. O que a gente propõe é simples: criar um espaço onde todo mundo possa brincar de verdade, com as mãos, com o corpo, com a imaginação e com tudo ao redor.</p>
+
+    <p>Tudo o que levamos é intencional: materiais acessíveis, naturais e abertos à invenção. Não existe certo ou errado, nem um jeito único de participar. Cada pessoa entra no ritmo da própria descoberta. E quando as pessoas adultas se permitem entrar na brincadeira, a festa fica ainda melhor!</p>
+
+
+    <h2>Como funciona</h2>
+    <p>A Festa Brincante acontece em um cantinho montado dentro da própria festa, ao ar livre ou em espaço interno. Levamos todos os materiais e preparamos o ambiente para que a experiência seja segura, bonita e convidativa.</p>
+
+    <p>As atividades acontecem de forma livre e espontânea, respeitando o ritmo e o interesse de cada criança (e de quem mais quiser entrar na brincadeira). Nossa equipe acompanha de perto, sem conduzir como animadores, mas como quem trama junto a brincadeira e está atenta ao que emerge no momento.</p>
+
+    <p>O tempo de duração e as atividades são combinados previamente, de acordo com o perfil da festa, a idade das crianças e o espaço disponível.</p>
+
+    <h2>Galeria de Vivências</h2>
+    <div class="galeria">
+      <img src="fotos/foto6.jpg" alt="Vivência Cartinha 1">
+      <img src="fotos/foto7.jpg" alt="Vivência Cartinha 2">
+      <img src="fotos/foto8.jpg" alt="Vivência Cartinha 3">
+      <img src="fotos/foto9.jpg" alt="Vivência Cartinha 4">
+      <img src="fotos/foto10.jpg" alt="Vivência Cartinha 5">
+    </div>
+
+    <h2>Quem faz</h2>
+    <p>Um time de educadoras que acreditam no brincar como experiência criativa e coletiva. Nossa proposta nasce da vontade de levar para as festas aquilo que a gente mais valoriza nos encontros com crianças: tempo de qualidade, liberdade para inventar e materiais que provocam a imaginação. Tudo isso com o olhar cuidadoso, que já faz parte do trabalho da Trama Urbana, costurando presença, natureza e atenção em cada detalhe.</p>
+
+    <div style="margin-top: 2rem; text-align: center;">
+      <a href="https://wa.me/5511995901115?text=Ol%C3%A1%2C%20gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20a%20Festa%20Brincante%20da%20Trama%20Urbana" target="_blank" class="cta-button">Solicite orçamento personalizado</a>
+    </div>
+  </main>
