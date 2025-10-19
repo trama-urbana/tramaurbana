@@ -192,6 +192,8 @@ strong.azul {
 
 .projeto-card h2 a {
   color: var(--azul-petroleo);
+  font-size: inherit;
+  font-weight: inherit;
   text-decoration: none;
 }
 
