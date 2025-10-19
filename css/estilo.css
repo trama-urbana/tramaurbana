@@ -172,7 +172,7 @@ h1
 
 p {
   margin-bottom: 1rem;
-  margin-top: 5px;
+  margin-top: 0px;
 
 }
 
@@ -186,6 +186,7 @@ strong {
 
 strong.azul {
   color: #0c6b77;
+font-weight: 600;
 }
 
 .galeria {
