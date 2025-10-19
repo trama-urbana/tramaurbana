@@ -185,8 +185,8 @@ strong {
 }
 
 strong.azul {
-  color: #0c6b77;
-  font-weight: 900;
+  color: inherit;
+  font-weight: 600;
 }
 
 .galeria {
