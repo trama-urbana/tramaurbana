@@ -345,3 +345,14 @@ footer {
 .foto-pessoa.topo {
   object-position: top center;
 }
+
+.whatsapp-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.whatsapp-inline img {
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
