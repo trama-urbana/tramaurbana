@@ -3,23 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-
-  <title> Contato – Trama Urbana</title>
-
-
-<link rel="stylesheet" href="../css/estilo.css" />
-<script src="../js/incluir-header-footer.js" defer></script></head>
+  <title>Contato – Trama Urbana</title>
+  <link rel="stylesheet" href="../css/estilo.css" />
+  <script src="../js/incluir-header-footer.js" defer></script>
+</head>
 <body>
   <header id="header"></header>
 
-
   <main class="container">
+    <h1>Vamos costurar juntos?</h1>
+    <p>Se você quer conversar, propor uma parceria, contratar nossos serviços ou só trocar uma ideia, escreva pra gente! Adoramos escutar.</p>
+
+    <form action="https://formsubmit.co/seu@email.com" method="POST" class="form-contato">
+      <label for="nome">Nome</label>
+      <input type="text" id="nome" name="nome" required />
+
+      <label for="email">E-mail</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="mensagem">Mensagem</label>
+      <textarea id="mensagem" name="mensagem" rows="6" required></textarea>
+
+      <button type="submit">Enviar</button>
+    </form>
+
+    <p class="outros-contatos">Ou, se preferir, fale com a gente direto pelo <a href="https://wa.me/5511995901115" target="_blank">WhatsApp</a>.</p>
   </main>
 
-
   <footer id="footer"></footer>
-  <script src="../js/incluir-header-footer.js"></script>
-
 </body>
 </html>
