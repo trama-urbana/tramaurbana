@@ -3,20 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-
-  <title> MUDAR AQUI – Trama Urbana</title>
-
-
-<link rel="stylesheet" href="../css/estilo.css" />
+  <title>Mensagem Enviada – Trama Urbana</title><link rel="stylesheet" href="../css/estilo.css" />
 <script src="../js/incluir-header-footer.js" defer></script></head>
 <body>
   <header id="header"></header>
 
-
   <main class="container">
+    <h1>Obrigada pelo contato!</h1>
+    <p>Recebemos sua mensagem e em breve entraremos em contato 💌</p>
+    <a class="botao-cta" href="/">Voltar para a página inicial</a>
   </main>
-
 
   <footer id="footer"></footer>
   <script src="../js/incluir-header-footer.js"></script>
